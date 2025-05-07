@@ -1,4 +1,4 @@
-** Finite Element Analyst/Engineer with script-writing ability **
+### ** Finite Element Analyst/Engineer with script-writing ability **
 
 I got a degree in Aeronautical Engineering in 1999, and then have worked in engineering simulation ever since. Over the years I have discovered my ability to understand scripts and Linux systems has been of value to my work and the work of my colleagues: debugging scripts that were not working as intended and writing new scripts to automate tedious and repetitive tasks.
 Though not a coder by profession, I have been helped along first by messing around a lot with BASIC (mostly on the ZX Spectrum) growing up, followed by using FORTRAN during my degree, one colleague suggesting I learn some perl, installing Linux on my PC when Windows XP reached end-of-life, and then getting lots of opportunities to fix and improve scripts in my company when the creator of the scripts had left to work somewhere else.
