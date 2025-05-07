@@ -1,4 +1,6 @@
-## Hi there 👋
+** Finite Element Analyst/Engineer with script-writing ability **
+
+I got a degree in Aeronautical Engineering in 1999, and then have worked in engineering simulation ever since. Over the years I have discovered my ability to understand scripts and Linux systems has been of value to my work and the work of my colleagues: debugging scripts that were not working as intended and writing new scripts to automate tedious and repetitive tasks.
 
 <!--
 **TypoSpotter/TypoSpotter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
